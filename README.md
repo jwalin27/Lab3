@@ -1,2 +1,5 @@
 # Lab3
-#Jwalin Manair
+Jwalin Maniar
+
+CSCI-3308
+Git Lab 
