@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Lab 3
+=======
+Lab 3
+>>>>>>> ef7a375f78a138a31e2fd3deb4876843fa5ce63c
 
 First file 
 Getting started
